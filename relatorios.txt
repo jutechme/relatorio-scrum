@@ -1,0 +1,9 @@
+relatoios scrum
+Etapas  
+product backlog: criar uma lista com todas funções que o produto deve ter.
+sprint planning: uma reunião onde a equipe define o objetivo do sprint e relaciona as historias do usuario
+sprint: um periodo fixo, geralmente de 1 a 4 semanas, quanndo o trabalho é realizado para alcançar o objetivo
+daily scrum: reuniões diarias onde a equipe compartilha seu progresso.
+sprint review: uma reunião ao final do sprint onde os funcionarios mostram o produto final, obtem o feedback e revisa o backlog
+sprint retrospective: uma reunião onde a equipe identifica o que funcionou bem e oq pode ser melhorado.
+incremento:  o produto funcionando e potencialmente entregavel ,criado ao final de cada sprint,que deve adicionar o valor do produto.
